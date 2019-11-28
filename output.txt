@@ -1,0 +1,5 @@
+A social network is created
+Number of nodes 127
+Number of edges 127
+Average Distance 4.945381827271591
+Average Diameter 6
